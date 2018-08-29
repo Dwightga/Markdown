@@ -46,4 +46,4 @@ Butterfly Photo Outside Directory
 
 Link to README.md
 * * *
-[a relative link](README.md)
+[link ReadME.md](README.md)
