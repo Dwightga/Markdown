@@ -1,7 +1,7 @@
 
 ~~ Block Code ~~
 
-
+<h2> C Program </h2>
 #include <stdio.h>
 #include <time.h>
 #define SIZE 100
