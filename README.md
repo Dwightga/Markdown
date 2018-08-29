@@ -3,13 +3,13 @@
 <h2> Monarch</h2>
 <h4> Butterfly</h4>
 
-> This is an image of a butterfly<br \>
+> This is an image of a butterfly<p \>
 
 ![Alt text](/path/to/Butterfly_Detail_1_grande.jpg)
 
-1.First number item<br \>
-2.Second number item<br \>
-3.Third number item<br \>
+1.First number item<p \>
+2.Second number item<p \>
+3.Third number item<p \>
 * 1st Bulleted Item
 * 2nd Bulleted Item
 * 3rd Bulleted Item
