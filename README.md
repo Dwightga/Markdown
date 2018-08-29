@@ -4,7 +4,7 @@
 <h4> Butterfly</h4>
 > This is an image of a butterfly
 
-![Alt text](/path/to/Butterfly_Detail_1_grande.jpg)
+![Butterfly](Butterfly_Detail_1_grande.jpg)
 
     1.First number item
     2.Second number item
