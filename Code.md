@@ -44,6 +44,6 @@ Butterfly Photo Outside Directory
 * * *
 <href="https://i.pinimg.com/originals/44/b6/53/44b6537b7578d7667232ce6ceb807892.jpg"
 
-Link to Read.md
+Link to README.md
 * * *
-![Read.Md](/path/to/README.md)
+[a relative link](README.md)
