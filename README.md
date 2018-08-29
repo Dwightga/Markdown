@@ -2,7 +2,6 @@
 
 <h2> Monarch</h2>
 <h4> Butterfly</h4>
-
     > This is an image of a butterfly
 
 ![Alt text](/path/to/Butterfly_Detail_1_grande.jpg)
