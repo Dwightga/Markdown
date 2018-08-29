@@ -1,5 +1,5 @@
 
-<s> Link to Read.md </s>
+~~ Link to Read.md ~~
 
 Butterfly
 * * *
