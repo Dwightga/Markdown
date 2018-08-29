@@ -22,6 +22,5 @@
 
  *More* **Butterflies**
     <href="https://butterflywebsite.com/"
-A Link to other Markdown file 
-* * *
-[a relative link](Code.md)
+
+[a Link to Code.md other markdown file](Code.md)
